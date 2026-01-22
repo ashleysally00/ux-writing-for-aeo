@@ -1,4 +1,4 @@
-# Considering AEO when Writing for UX
+# UX Writing for AI Answer Extraction (AEO)
 
 Search is just as relevant as it ever was to UX writing. But now it combines standard search with AI tools.
 
