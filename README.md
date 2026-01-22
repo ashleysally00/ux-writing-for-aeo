@@ -2,7 +2,7 @@
 
 Search is just as relevant as it ever was to UX writing. But now it combines standard search with AI tools.
 
-For example, when you search in Google now, you often get an AI-generated answer (AEO / AI Overviews) instead of just a list of links. So you need to optimize content so that within your document, the AI tool surfaces what is most relevant using hierarchy.
+For example, when you do a web search now, you often get an AI-generated answer (AEO / AI Overviews) instead of just a list of links. So you need to optimize content so that within your document, the AI tool surfaces what is most relevant using hierarchy.
 
 But that doesn't mean you don't need to consider the bigger picture.
 
